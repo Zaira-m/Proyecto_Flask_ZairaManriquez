@@ -19,4 +19,4 @@ Aplicación desarrollada con **Python Flask** para la asignatura *Programación 
 
 ## Autora 
 Proyecto desarrolado por **Zaira Manríquez**
-Iplacex 2025
+Iplacex - 2025
